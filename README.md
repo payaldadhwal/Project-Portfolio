@@ -56,18 +56,25 @@ A data analysis project focused on understanding customer purchasing behavior us
 ---
 
 🔹 E-commerce Sales Analysis
+
 📌 Description:
 A data analysis project focused on analyzing e-commerce sales data using Microsoft Excel. The project involves data cleaning, creating pivot tables, and building an interactive dashboard to extract meaningful business insights and understand overall sales performance.
 
 🚀 Features:
 Sales vs Orders trend analysis
+
 Monthly sales performance by state
+
 Channel-wise order distribution
+
 Age group vs gender analysis
+
 Order status distribution insights
+
 Interactive dashboard using slicers and filters
 
 🛠️ Tech Stack:
+
 Microsoft Excel
 Data Cleaning
 Pivot Tables
@@ -76,10 +83,15 @@ Data Visualization
 Slicers & Filters
 
 📊 Key Insights:
+
 Majority of orders are successfully delivered
+
 Amazon and Flipkart contribute the highest sales share
+
 Women customers dominate overall purchases
+
 Top-performing states include Maharashtra and Karnataka
+
 Adult age group contributes the highest number of orders
 
 🔗 GitHub Repository:
