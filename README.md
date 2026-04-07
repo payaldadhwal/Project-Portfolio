@@ -51,6 +51,6 @@ A data analysis project focused on understanding customer purchasing behavior us
 ---
 
 🔗 GitHub Repository:
-👉 
+👉 https://github.com/payaldadhwal/Customer-Shopping-Behavior-Analysis
 
 ---
