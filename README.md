@@ -1,11 +1,11 @@
-🚀 My Project Portfolio
+#🚀 My Project Portfolio
 
 Welcome to my GitHub Project Portfolio!
 This repository showcases the projects I’ve built, highlighting my skills in data analysis, business understanding, and problem-solving.
 
 ---
 
-👨‍💻 About Me
+#👨‍💻 About Me
 
 Hi, I am Payal Devi
 
@@ -24,7 +24,7 @@ Hi, I am Payal Devi
 
 ---
 
-🔹 Customer Shopping Behavior Analysis
+###🔹1. Customer Shopping Behavior Analysis
 
 📌 Description:
 A data analysis project focused on understanding customer purchasing behavior using SQL, Python (Pandas), and Power BI. The project transforms raw data into meaningful insights through an interactive dashboard to support business decision-making.
@@ -55,7 +55,7 @@ A data analysis project focused on understanding customer purchasing behavior us
 
 ---
 
-🔹 E-commerce Sales Analysis
+###🔹2. E-commerce Sales Analysis
 
 📌 Description:
 A data analysis project focused on analyzing e-commerce sales data using Microsoft Excel. The project involves data cleaning, creating pivot tables, and building an interactive dashboard to extract meaningful business insights and understand overall sales performance.
@@ -96,3 +96,44 @@ Adult age group contributes the highest number of orders
 
 🔗 GitHub Repository:
 👉 https://github.com/payaldadhwal/E-commerce-Sales-Analysis
+
+
+###🔹3. Blinkit Grocery Analysis
+
+📌 Description:
+A data analysis project focused on exploring grocery sales data from Blinkit. The project emphasizes data cleaning, SQL-based analysis, and extracting business insights related to product pricing, sales trends, and outlet performance.
+
+🚀 Features:
+Data cleaning and preprocessing of raw grocery dataset
+
+SQL-based analysis for sales and product insights
+
+Product category and item-type performance analysis
+
+Outlet size and type comparison
+
+Sales trends and high-value product identification
+
+🛠️ Tech Stack:
+
+SQL
+
+Data Cleaning
+
+Data Analysis
+
+CSV Dataset
+
+📊 Key Insights:
+High MRP products are mainly from dairy and canned categories
+
+Medium-sized outlets generate the highest sales
+
+Certain products consistently perform well across all outlets
+
+Data standardization (like fat content and outlet size) is crucial for accurate analysis
+
+Sales trends can support better inventory planning and targeted promotions
+
+🔗 GitHub Repository:
+👉 https://github.com/payaldadhwal/Blink-it-Analysis-
