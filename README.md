@@ -51,6 +51,22 @@ A data analysis project focused on understanding customer purchasing behavior us
 ---
 
 ### Dashboard
+![Dashboard Preview](https://github.com/payaldadhwal/Customer-Shopping-Behavior-Analysis/raw/main/dashboard.png)
+
+### Key Insights
+💡 Key Insights
+The dataset includes ~3.9K customers, representing a moderately diverse customer base
+Average purchase value is $59.76, indicating mid-range spending with upselling potential
+Average rating of 3.75 shows generally positive satisfaction with room for improvement
+73% non-subscribers vs 27% subscribers highlights strong potential for subscription growth
+Clothing is the top category:
+~1.7K customers
+~$104K revenue (primary growth driver)
+Accessories and Footwear perform moderately, while Outerwear shows lowest demand
+Young Adults are the highest revenue-generating segment
+Middle-aged customers are the second key contributors
+Adult and Senior segments show lower engagement, indicating targeting opportunities
+Customer behavior varies across categories and age groups, emphasizing the need for segmented marketing and personalization
 
 🔗 GitHub Repository:
 👉 https://github.com/payaldadhwal/Customer-Shopping-Behavior-Analysis
@@ -84,6 +100,9 @@ Pivot Charts
 Data Visualization
 Slicers & Filters
 
+### Dashboard
+![Dashboard Preview](https://github.com/payaldadhwal/E-commerce-Sales-Analysis/blob/main/Sales%20Dashboard%20Screenshot.png?raw=true)
+
 📊 Key Insights:
 
 Majority of orders are successfully delivered
@@ -96,7 +115,6 @@ Top-performing states include Maharashtra and Karnataka
 
 Adult age group contributes the highest number of orders
 
-### Dashboard
 
 
 🔗 GitHub Repository:
