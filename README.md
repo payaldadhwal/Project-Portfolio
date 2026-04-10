@@ -121,7 +121,7 @@ This project analyzes a retail grocery dataset using SQL and Power BI to uncover
 
 ### 📊 Dashboard 
 
-![Dashboard Preview](images/blinkit_dashboard.png)
+![Dashboard Preview](https://github.com/payaldadhwal/Blink-it-Analysis-/blob/main/dashboard_sc.png?raw=true)
 
 🔗 GitHub Repository:
 
