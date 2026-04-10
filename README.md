@@ -50,6 +50,8 @@ A data analysis project focused on understanding customer purchasing behavior us
 
 ---
 
+### Dashboard
+
 🔗 GitHub Repository:
 👉 https://github.com/payaldadhwal/Customer-Shopping-Behavior-Analysis
 
@@ -94,6 +96,9 @@ Top-performing states include Maharashtra and Karnataka
 
 Adult age group contributes the highest number of orders
 
+### Dashboard
+
+
 🔗 GitHub Repository:
 👉 https://github.com/payaldadhwal/E-commerce-Sales-Analysis
 
@@ -123,7 +128,7 @@ This project analyzes a retail grocery dataset using SQL and Power BI to uncover
 
 ![Dashboard Preview](https://github.com/payaldadhwal/Blink-it-Analysis-/blob/main/dashboard_sc.png?raw=true)
 
-🔗 GitHub Repository:
+🔗 GitHub Repository: https://github.com/payaldadhwal/Blink-it-Analysis-
 
 ---
 
