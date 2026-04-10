@@ -98,42 +98,41 @@ Adult age group contributes the highest number of orders
 👉 https://github.com/payaldadhwal/E-commerce-Sales-Analysis
 
 
-###🔹3. Blinkit Grocery Analysis
+###🔹3. 🛒 Blinkit-Inspired Grocery Sales Analysis
 
-📌 Description:
-A data analysis project focused on exploring grocery sales data from Blinkit. The project emphasizes data cleaning, SQL-based analysis, and extracting business insights related to product pricing, sales trends, and outlet performance.
+### 📌 Description
+This project analyzes a retail grocery dataset using SQL and Power BI to uncover insights on sales performance, product demand, and outlet efficiency. The project demonstrates end-to-end data analysis, from data cleaning to interactive dashboard creation.
 
-🚀 Features:
-Data cleaning and preprocessing of raw grocery dataset
+---
 
-SQL-based analysis for sales and product insights
+### 🚀 Features
+- Cleaned and standardized raw data using SQL  
+- Performed sales and category analysis using aggregation and ranking  
+- Built an interactive Power BI dashboard with filters  
+- Visualized KPIs like total sales, average sales, and outlet performance  
 
-Product category and item-type performance analysis
+---
 
-Outlet size and type comparison
+### 🛠 Tech Stack
+- SQL (Data Cleaning & Analysis)  
+- Power BI (Data Transformation & Dashboard)  
 
-Sales trends and high-value product identification
+---
 
-🛠️ Tech Stack:
+### 📊 Dashboard 
 
-SQL
-
-Data Cleaning
-
-Data Analysis
-
-CSV Dataset
-
-📊 Key Insights:
-High MRP products are mainly from dairy and canned categories
-
-Medium-sized outlets generate the highest sales
-
-Certain products consistently perform well across all outlets
-
-Data standardization (like fat content and outlet size) is crucial for accurate analysis
-
-Sales trends can support better inventory planning and targeted promotions
+![Dashboard Preview](images/blinkit_dashboard.png)
 
 🔗 GitHub Repository:
-👉 https://github.com/payaldadhwal/Blink-it-Analysis-
+
+---
+
+### 💡 Key Insights
+- Total sales reached **$18.6M** with an average of **$2.18K per item**  
+- **Medium-sized outlets** generated the highest revenue contribution  
+- **Tier 3 locations** outperformed Tier 1 and Tier 2 in total sales  
+- **Regular-fat products** dominated overall demand compared to low-fat items  
+- Top-performing categories include **Fruits & Vegetables** and **Snacks**  
+- **Supermarket Type 1** contributed the highest total sales among outlet types  
+
+---
