@@ -27,16 +27,21 @@ Hi, I am Payal Devi
 ###🔹1. Customer Shopping Behavior Analysis
 
 📌 Description:
-A data analysis project focused on understanding customer purchasing behavior using SQL, Python (Pandas), and Power BI. The project transforms raw data into meaningful insights through an interactive dashboard to support business decision-making.
+A data analysis project focused on understanding customer purchasing behavior using SQL, Python (Pandas), and Power BI. 
+The project transforms raw data into meaningful insights through an interactive dashboard to support business decision-making.
 
 ---
 
 🚀 Features:
 
 - Customer segmentation based on demographics and behavior
+- 
 - Analysis of subscription vs non-subscription customers
+- 
 - Category-wise performance tracking
+- 
 - Age-group based sales and revenue insights
+- 
 - Interactive dashboard for visualization
 
 ---
@@ -56,16 +61,26 @@ A data analysis project focused on understanding customer purchasing behavior us
 ### Key Insights
 💡 Key Insights
 The dataset includes ~3.9K customers, representing a moderately diverse customer base
+
 Average purchase value is $59.76, indicating mid-range spending with upselling potential
+
 Average rating of 3.75 shows generally positive satisfaction with room for improvement
+
 73% non-subscribers vs 27% subscribers highlights strong potential for subscription growth
+
 Clothing is the top category:
 ~1.7K customers
+
 ~$104K revenue (primary growth driver)
+
 Accessories and Footwear perform moderately, while Outerwear shows lowest demand
+
 Young Adults are the highest revenue-generating segment
+
 Middle-aged customers are the second key contributors
+
 Adult and Senior segments show lower engagement, indicating targeting opportunities
+
 Customer behavior varies across categories and age groups, emphasizing the need for segmented marketing and personalization
 
 🔗 GitHub Repository:
@@ -73,7 +88,45 @@ Customer behavior varies across categories and age groups, emphasizing the need 
 
 ---
 
-###🔹2. E-commerce Sales Analysis
+
+###🔹2. 🛒 Blinkit-Inspired Grocery Sales Analysis
+
+### 📌 Description
+This project analyzes a retail grocery dataset using SQL and Power BI to uncover insights on sales performance, product demand, and outlet efficiency. The project demonstrates end-to-end data analysis, from data cleaning to interactive dashboard creation.
+
+---
+
+### 🚀 Features
+- Cleaned and standardized raw data using SQL  
+- Performed sales and category analysis using aggregation and ranking  
+- Built an interactive Power BI dashboard with filters  
+- Visualized KPIs like total sales, average sales, and outlet performance  
+
+---
+
+### 🛠 Tech Stack
+- SQL (Data Cleaning & Analysis)  
+- Power BI (Data Transformation & Dashboard)  
+
+---
+
+### 📊 Dashboard 
+
+![Dashboard Preview](https://github.com/payaldadhwal/Blink-it-Analysis-/blob/main/dashboard_sc.png?raw=true)
+
+🔗 GitHub Repository: https://github.com/payaldadhwal/Blink-it-Analysis-
+
+---
+
+### 💡 Key Insights
+- Total sales reached **$18.6M** with an average of **$2.18K per item**  
+- **Medium-sized outlets** generated the highest revenue contribution  
+- **Tier 3 locations** outperformed Tier 1 and Tier 2 in total sales  
+- **Regular-fat products** dominated overall demand compared to low-fat items  
+- Top-performing categories include **Fruits & Vegetables** and **Snacks**  
+- **Supermarket Type 1** contributed the highest total sales among outlet types  
+
+###🔹3. E-commerce Sales Analysis
 
 📌 Description:
 A data analysis project focused on analyzing e-commerce sales data using Microsoft Excel. The project involves data cleaning, creating pivot tables, and building an interactive dashboard to extract meaningful business insights and understand overall sales performance.
@@ -115,47 +168,5 @@ Top-performing states include Maharashtra and Karnataka
 
 Adult age group contributes the highest number of orders
 
-
-
 🔗 GitHub Repository:
 👉 https://github.com/payaldadhwal/E-commerce-Sales-Analysis
-
-
-###🔹3. 🛒 Blinkit-Inspired Grocery Sales Analysis
-
-### 📌 Description
-This project analyzes a retail grocery dataset using SQL and Power BI to uncover insights on sales performance, product demand, and outlet efficiency. The project demonstrates end-to-end data analysis, from data cleaning to interactive dashboard creation.
-
----
-
-### 🚀 Features
-- Cleaned and standardized raw data using SQL  
-- Performed sales and category analysis using aggregation and ranking  
-- Built an interactive Power BI dashboard with filters  
-- Visualized KPIs like total sales, average sales, and outlet performance  
-
----
-
-### 🛠 Tech Stack
-- SQL (Data Cleaning & Analysis)  
-- Power BI (Data Transformation & Dashboard)  
-
----
-
-### 📊 Dashboard 
-
-![Dashboard Preview](https://github.com/payaldadhwal/Blink-it-Analysis-/blob/main/dashboard_sc.png?raw=true)
-
-🔗 GitHub Repository: https://github.com/payaldadhwal/Blink-it-Analysis-
-
----
-
-### 💡 Key Insights
-- Total sales reached **$18.6M** with an average of **$2.18K per item**  
-- **Medium-sized outlets** generated the highest revenue contribution  
-- **Tier 3 locations** outperformed Tier 1 and Tier 2 in total sales  
-- **Regular-fat products** dominated overall demand compared to low-fat items  
-- Top-performing categories include **Fruits & Vegetables** and **Snacks**  
-- **Supermarket Type 1** contributed the highest total sales among outlet types  
-
----
