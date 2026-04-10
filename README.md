@@ -35,13 +35,13 @@ The project transforms raw data into meaningful insights through an interactive 
 🚀 Features:
 
 - Customer segmentation based on demographics and behavior
-- 
+
 - Analysis of subscription vs non-subscription customers
-- 
+  
 - Category-wise performance tracking
-- 
+ 
 - Age-group based sales and revenue insights
-- 
+  
 - Interactive dashboard for visualization
 
 ---
@@ -58,8 +58,7 @@ The project transforms raw data into meaningful insights through an interactive 
 ### Dashboard
 ![Dashboard Preview](https://github.com/payaldadhwal/Customer-Shopping-Behavior-Analysis/raw/main/dashboard.png)
 
-### Key Insights
-💡 Key Insights
+### 💡 Key Insights
 The dataset includes ~3.9K customers, representing a moderately diverse customer base
 
 Average purchase value is $59.76, indicating mid-range spending with upselling potential
@@ -92,7 +91,8 @@ Customer behavior varies across categories and age groups, emphasizing the need 
 ###🔹2. 🛒 Blinkit-Inspired Grocery Sales Analysis
 
 ### 📌 Description
-This project analyzes a retail grocery dataset using SQL and Power BI to uncover insights on sales performance, product demand, and outlet efficiency. The project demonstrates end-to-end data analysis, from data cleaning to interactive dashboard creation.
+
+This project explores a retail grocery dataset of around 8,400 records using SQL and Power BI to uncover actionable insights on sales trends, product demand, and outlet performance. It highlights an end-to-end workflow from data cleaning to building an interactive dashboard.
 
 ---
 
