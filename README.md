@@ -24,7 +24,84 @@ Hi, I am Payal Devi
 
 ---
 
-###🔹1. Customer Shopping Behavior Analysis
+### 🔹1. 📱 Mobile App User Interaction Analysis
+
+📌 Description:
+A data analysis project focused on understanding user engagement and interaction patterns in a mobile application using Python. The project involves cleaning a large dataset (~1 lakh records), performing exploratory data analysis (EDA), and applying statistical hypothesis testing to evaluate factors affecting session duration.
+
+---
+
+🚀 Features:
+
+Cleaned and processed ~100,000 records for accurate analysis
+
+Handled missing values, inconsistent data, and outliers
+
+Standardized categorical variables (device OS, event types)
+
+Performed exploratory data analysis (EDA) using visualizations
+
+Analyzed user behavior based on session duration and interaction types
+
+Conducted hypothesis testing to evaluate:
+
+* Subscription impact on engagement
+* Push notification impact on engagement
+
+---
+
+🛠️ Tech Stack:
+
+Python (Pandas, NumPy) – Data cleaning & analysis
+Matplotlib & Seaborn – Data visualization
+SciPy – Hypothesis testing
+CSV – Dataset
+
+---
+
+📊 Analysis Highlights:
+
+Session duration distribution using histogram and boxplot
+
+Event-type based engagement analysis
+
+Comparison of user behavior across:
+
+* Subscription status
+* Push notification settings
+
+---
+
+📈 Hypothesis Testing:
+
+Test 1: Subscription vs Session Duration
+→ No statistically significant impact (p > 0.05)
+
+Test 2: Push Notifications vs Session Duration
+→ No statistically significant impact (p > 0.05)
+
+---
+
+💡 Key Insights:
+
+Average session duration is ~30 minutes with high variability
+
+Presence of power users with very high engagement
+
+Click, Scroll, and Share are the most frequent interactions
+
+Android users dominate the platform usage
+
+Subscription and push notifications do not significantly affect session duration
+
+User engagement is driven more by content quality and user experience
+
+---
+
+🔗 GitHub Repository: 👉 https://github.com/payaldadhwal/Mobile_AppUser_Interaction_Analysis
+
+
+###🔹2. Customer Shopping Behavior Analysis
 
 📌 Description:
 A data analysis project focused on understanding customer purchasing behavior using SQL, Python (Pandas), and Power BI. 
@@ -88,7 +165,7 @@ Customer behavior varies across categories and age groups, emphasizing the need 
 ---
 
 
-###🔹2. 🛒 Blinkit-Inspired Grocery Sales Analysis
+###🔹3. 🛒 Blinkit-Inspired Grocery Sales Analysis
 
 ### 📌 Description
 
@@ -126,7 +203,7 @@ This project explores a retail grocery dataset of around 8,400 records using SQL
 - Top-performing categories include **Fruits & Vegetables** and **Snacks**  
 - **Supermarket Type 1** contributed the highest total sales among outlet types  
 
-###🔹3. E-commerce Sales Analysis
+###🔹4. E-commerce Sales Analysis
 
 📌 Description:
 A data analysis project focused on analyzing e-commerce sales data using Microsoft Excel. The project involves data cleaning, creating pivot tables, and building an interactive dashboard to extract meaningful business insights and understand overall sales performance.
